@@ -1,4 +1,4 @@
-# Calculadoras
+# Calculadoras Aleatórias
 
 Este projeto consiste em um conjunto de três calculadoras desenvolvidas em Python, demonstrando a aplicação prática de conceitos avançados de design de código e arquitetura de software. Cada calculadora foi projetada para lidar com diferentes tipos de cálculos, ilustrando como técnicas específicas de programação podem ser empregadas para resolver problemas matemáticos complexos com eficiência e precisão.
 
